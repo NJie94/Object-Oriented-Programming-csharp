@@ -1,0 +1,129 @@
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\animations\startup.txt
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\bundles\splash.txt
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\images\fdFile.png
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\images\fdFolder.png
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\sounds\error.wav
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\SwinGame.icns
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\Resources\SwinGame.ico
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\MyGame.exe
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\SwinGame.dll
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\nunit.framework.dll
+C:\Users\Dominic\Desktop\Dominic\ProjectTemplate_2\bin\Debug\nunit.framework.xml
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\animations\startup.txt
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\bundles\splash.txt
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\images\fdFile.png
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\images\fdFolder.png
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\sounds\error.wav
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\SwinGame.icns
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\Resources\SwinGame.ico
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\MyGame.exe
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\nunit.framework.dll
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\SwinGame.dll
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\bin\Debug\nunit.framework.xml
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Dominic\Desktop\OOP C++\C++\Week 2\ProjectTemplate_2\obj\x86\Debug-Windows\MyGame.exe
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\animations\startup.txt
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\bundles\FileDialog.txt
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\bundles\splash.txt
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\fonts\arial.ttf
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\fonts\cour.ttf
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\fdFile.png
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\fdFolder.png
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_Active.png
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_Background.png
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_Inactive.png
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_Scroll.png
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\Swinburne.jpg
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\SwinGameAni.png
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\panels\FileDialog.txt
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\sounds\error.wav
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\sounds\SwinGameStart.wav
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\SwinGame.icns
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\SwinGame.ico
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\MyGame.exe
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\SwinGame.dll
+E:\Codes\WK_2_task4_task5 _swingame\bin\Debug\nunit.framework.xml
+E:\Codes\WK_2_task4_task5 _swingame\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+E:\Codes\WK_2_task4_task5 _swingame\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\animations\startup.txt
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\bundles\splash.txt
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\fdFile.png
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\fdFolder.png
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\sounds\error.wav
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\SwinGame.icns
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\SwinGame.ico
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\MyGame.exe
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\nunit.framework.dll
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\SwinGame.dll
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\nunit.framework.xml
+C:\Users\Dominic\Desktop\OOP C++\Codes\WK_2_task4_task5 _swingame\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\animations\startup.txt
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\bundles\FileDialog.txt
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\bundles\splash.txt
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\fonts\arial.ttf
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\fonts\cour.ttf
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\fonts\maven_pro_regular.ttf
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\fdFile.png
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\fdFolder.png
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_Active.png
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_Background.png
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_Inactive.png
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_Scroll.png
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\FileDialog_ScrollSmall.png
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\Swinburne.jpg
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\images\SwinGameAni.png
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\panels\FileDialog.txt
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\sounds\error.wav
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\sounds\SwinGameStart.wav
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\SwinGame.icns
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\Resources\SwinGame.ico
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\MyGame.exe
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\nunit.framework.dll
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\SwinGame.dll
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\bin\Debug\nunit.framework.xml
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\obj\x86\Debug-Windows\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\Dominic\Desktop\swinburne\year 3 sem 1\OOP C++\Codes\WK_2_task4_task5 _swingame\obj\x86\Debug-Windows\MyGame.exe

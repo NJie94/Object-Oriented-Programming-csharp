@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Swinwarts_School_of_Magic\Program.cs">
+    <Files>
+      <File FileName="Swinwarts_School_of_Magic\Invisibility.cs" Line="1" Column="1" />
+      <File FileName="Swinwarts_School_of_Magic\Teleport.cs" Line="1" Column="1" />
+      <File FileName="Swinwarts_School_of_Magic\Heal.cs" Line="1" Column="1" />
+      <File FileName="Swinwarts_School_of_Magic\Spell Book.cs" Line="23" Column="23" />
+      <File FileName="Swinwarts_School_of_Magic\Program.cs" Line="53" Column="53" />
+      <File FileName="Swinwarts_School_of_Magic\Unit_testing_Spell.cs" Line="1" Column="1" />
+      <File FileName="Swinwarts_School_of_Magic\House.cs" Line="1" Column="1" />
+      <File FileName="Swinwarts_School_of_Magic\VisibleMutable.cs" Line="1" Column="1" />
+      <File FileName="Swinwarts_School_of_Magic\Transportable.cs" Line="1" Column="1" />
+      <File FileName="Swinwarts_School_of_Magic\Cat.cs" Line="1" Column="1" />
+      <File FileName="Swinwarts_School_of_Magic\Animal.cs" Line="1" Column="1" />
+      <File FileName="Swinwarts_School_of_Magic\Unit_testing_SpellBook.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\Unit_testing_Spell.cs" line="18" column="11" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

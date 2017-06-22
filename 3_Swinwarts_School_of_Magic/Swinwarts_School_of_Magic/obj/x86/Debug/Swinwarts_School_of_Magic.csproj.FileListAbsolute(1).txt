@@ -1,0 +1,25 @@
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\bin\Debug\Swinwarts_School_of_Magic.exe
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\bin\Debug\Swinwarts_School_of_Magic.pdb
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\obj\x86\Debug\Swinwarts_School_of_Magic.exe
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\obj\x86\Debug\Swinwarts_School_of_Magic.pdb
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\bin\Debug\Swinwarts_School_of_Magic.exe
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\bin\Debug\Swinwarts_School_of_Magic.pdb
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\bin\Debug\nunit.framework.dll
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\bin\Debug\nunit.framework.xml
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\obj\x86\Debug\Swinwarts_School_of_Magic.csprojResolveAssemblyReference.cache
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\obj\x86\Debug\Swinwarts_School_of_Magic.exe
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\obj\x86\Debug\Swinwarts_School_of_Magic.pdb
+C:\Users\Dominic\Desktop\OOP C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\bin\Debug\Swinwarts_School_of_Magic.exe
+C:\Users\Dominic\Desktop\OOP C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\bin\Debug\Swinwarts_School_of_Magic.pdb
+C:\Users\Dominic\Desktop\OOP C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\bin\Debug\nunit.framework.dll
+C:\Users\Dominic\Desktop\OOP C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\bin\Debug\nunit.framework.xml
+C:\Users\Dominic\Desktop\OOP C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\obj\x86\Debug\Swinwarts_School_of_Magic.csprojResolveAssemblyReference.cache
+C:\Users\Dominic\Desktop\OOP C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\obj\x86\Debug\Swinwarts_School_of_Magic.exe
+C:\Users\Dominic\Desktop\OOP C++\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\obj\x86\Debug\Swinwarts_School_of_Magic.pdb
+E:\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\obj\x86\Debug\Swinwarts_School_of_Magic.csprojResolveAssemblyReference.cache
+E:\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\obj\x86\Debug\Swinwarts_School_of_Magic.exe
+E:\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\bin\Debug\Swinwarts_School_of_Magic.exe
+E:\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\bin\Debug\Swinwarts_School_of_Magic.pdb
+E:\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\bin\Debug\nunit.framework.xml
+E:\Codes\Wk_1_task3_Swinwarts_School_of_Magic\Swinwarts_School_of_Magic\obj\x86\Debug\Swinwarts_School_of_Magic.pdb

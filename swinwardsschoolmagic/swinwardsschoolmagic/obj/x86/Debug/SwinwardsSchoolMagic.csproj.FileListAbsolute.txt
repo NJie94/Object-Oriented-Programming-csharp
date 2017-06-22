@@ -1,0 +1,51 @@
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\obj\x86\Debug\SwinwardsSchoolMagic.exe
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\SwinwardsSchoolMagic.exe.config
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\SwinwardsSchoolMagic.exe
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\SwinwardsSchoolMagic.pdb
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\ChainingAssertion.NUnit.dll
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\EntityFramework.dll
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\EntityFramework.SqlServer.dll
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\Newtonsoft.Json.dll
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\nunit.framework.dll
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\nunit.mocks.dll
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\pnunit.framework.dll
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\EntityFramework.xml
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\EntityFramework.SqlServer.xml
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\Newtonsoft.Json.xml
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\nunit.framework.xml
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\obj\x86\Debug\SwinwardsSchoolMagic.csprojResolveAssemblyReference.cache
+F:\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\obj\x86\Debug\SwinwardsSchoolMagic.pdb
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\SwinwardsSchoolMagic.exe.config
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\SwinwardsSchoolMagic.exe
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\SwinwardsSchoolMagic.pdb
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\ChainingAssertion.NUnit.dll
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\EntityFramework.dll
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\nunit.framework.dll
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\nunit.mocks.dll
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\pnunit.framework.dll
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\EntityFramework.xml
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\nunit.framework.xml
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\obj\x86\Debug\SwinwardsSchoolMagic.csprojResolveAssemblyReference.cache
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\obj\x86\Debug\SwinwardsSchoolMagic.exe
+C:\Users\Jie\Desktop\oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\obj\x86\Debug\SwinwardsSchoolMagic.pdb
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\SwinwardsSchoolMagic.exe.config
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\SwinwardsSchoolMagic.exe
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\SwinwardsSchoolMagic.pdb
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\ChainingAssertion.NUnit.dll
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\EntityFramework.dll
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\nunit.framework.dll
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\nunit.mocks.dll
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\pnunit.framework.dll
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\EntityFramework.xml
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\bin\Debug\nunit.framework.xml
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\obj\x86\Debug\SwinwardsSchoolMagic.csprojResolveAssemblyReference.cache
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\obj\x86\Debug\SwinwardsSchoolMagic.exe
+C:\Users\Jie\Dropbox\Nicholas oop\SwinwardsSchoolMagic\SwinwardsSchoolMagic\obj\x86\Debug\SwinwardsSchoolMagic.pdb

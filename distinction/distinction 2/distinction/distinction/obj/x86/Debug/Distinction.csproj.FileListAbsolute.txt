@@ -1,0 +1,5 @@
+C:\Users\Jie\Desktop\Distinction 2\Distinction\Distinction\obj\x86\Debug\Distinction.csprojResolveAssemblyReference.cache
+C:\Users\Jie\Desktop\Distinction 2\Distinction\Distinction\bin\Debug\Distinction.exe
+C:\Users\Jie\Desktop\Distinction 2\Distinction\Distinction\bin\Debug\Distinction.pdb
+C:\Users\Jie\Desktop\Distinction 2\Distinction\Distinction\obj\x86\Debug\Distinction.exe
+C:\Users\Jie\Desktop\Distinction 2\Distinction\Distinction\obj\x86\Debug\Distinction.pdb

@@ -1,0 +1,10 @@
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\CounterTest\CounterTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\CounterTest\CounterTest\bin\Debug\CounterTest.exe
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\CounterTest\CounterTest\bin\Debug\CounterTest.pdb
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\CounterTest\CounterTest\obj\x86\Debug\CounterTest.exe
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\CounterTest\CounterTest\obj\x86\Debug\CounterTest.pdb
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task2_CounterTest\CounterTest\bin\Debug\CounterTest.exe
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task2_CounterTest\CounterTest\bin\Debug\CounterTest.pdb
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task2_CounterTest\CounterTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task2_CounterTest\CounterTest\obj\x86\Debug\CounterTest.exe
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task2_CounterTest\CounterTest\obj\x86\Debug\CounterTest.pdb

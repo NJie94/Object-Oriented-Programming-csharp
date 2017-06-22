@@ -1,0 +1,34 @@
+/Users/baolingliu/Downloads/ProjectTemplate/obj/x86/Debug-Mac/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/baolingliu/Downloads/ProjectTemplate/bin/Debug/SwinGame.dll
+/Volumes/Jie 1/oop/ProjectTemplate/obj/x86/Debug-Mac/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/SwinGame.dll
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/animations/startup.txt
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/bundles/FileDialog.txt
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/bundles/splash.txt
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/fonts/arial.ttf
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/fonts/cour.ttf
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/fonts/maven_pro_regular.ttf
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/images/fdFile.png
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/images/fdFolder.png
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/images/FileDialog_Active.png
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/images/FileDialog_Background.png
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/images/FileDialog_Inactive.png
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/images/FileDialog_Scroll.png
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/images/FileDialog_ScrollSmall.png
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/images/Swinburne.jpg
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/images/SwinGameAni.png
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/panels/FileDialog.txt
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/sounds/error.wav
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/sounds/SwinGameStart.wav
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/SwinGame.icns
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/Resources/SwinGame.ico
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/MyGame.exe.mdb
+/Volumes/Jie 1/oop/ProjectTemplate/bin/Debug/MyGame.exe
+/Volumes/Jie 1/oop/ProjectTemplate/obj/x86/Debug-Mac/MyGame.exe
+/Volumes/Jie 1/oop/ProjectTemplate/obj/x86/Debug-Mac/MyGame.exe.mdb
+/Users/hikaijie/Desktop/oop/ProjectTemplate/obj/x86/Debug-Mac/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/hikaijie/Desktop/oop/ProjectTemplate/bin/Debug/MyGame.exe.mdb
+/Users/hikaijie/Desktop/oop/ProjectTemplate/bin/Debug/MyGame.exe
+/Users/hikaijie/Desktop/oop/ProjectTemplate/obj/x86/Debug-Mac/MyGame.exe
+/Users/hikaijie/Desktop/oop/ProjectTemplate/obj/x86/Debug-Mac/MyGame.exe.mdb
+/Users/hikaijie/Desktop/oop/ProjectTemplate/bin/Debug/SwinGame.dll

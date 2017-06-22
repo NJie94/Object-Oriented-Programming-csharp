@@ -1,0 +1,7 @@
+C:\Users\Dominic\Desktop\OOP C++\Codes\DistinctionProgram\DistinctionProgram\obj\x86\Debug\DistinctionProgram.csprojResolveAssemblyReference.cache
+C:\Users\Dominic\Desktop\OOP C++\Codes\DistinctionProgram\DistinctionProgram\bin\Debug\DistinctionProgram.exe
+C:\Users\Dominic\Desktop\OOP C++\Codes\DistinctionProgram\DistinctionProgram\bin\Debug\DistinctionProgram.pdb
+C:\Users\Dominic\Desktop\OOP C++\Codes\DistinctionProgram\DistinctionProgram\obj\x86\Debug\DistinctionProgram.exe
+C:\Users\Dominic\Desktop\OOP C++\Codes\DistinctionProgram\DistinctionProgram\obj\x86\Debug\DistinctionProgram.pdb
+C:\Users\Dominic\Desktop\OOP C++\Codes\DistinctionProgram\DistinctionProgram\bin\Debug\nunit.framework.dll
+C:\Users\Dominic\Desktop\OOP C++\Codes\DistinctionProgram\DistinctionProgram\bin\Debug\nunit.framework.xml

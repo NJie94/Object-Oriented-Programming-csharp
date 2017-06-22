@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Rover\Rover.cs">
+    <Files>
+      <File FileName="Rover\Rover.cs" Line="9" Column="9" />
+      <File FileName="Rover\Battery.cs" Line="1" Column="1" />
+      <File FileName="Rover\Device.cs" Line="1" Column="1" />
+      <File FileName="Rover\Drill.cs" Line="1" Column="1" />
+      <File FileName="Rover\SolarPanel.cs" Line="1" Column="1" />
+      <File FileName="Rover\Radar.cs" Line="1" Column="1" />
+      <File FileName="Rover\Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,9 @@
+/Users/hikaijie/Dropbox/Nicholas oop/ProjectTemplate/obj/x86/Debug-Windows/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/hikaijie/Dropbox/Nicholas oop/ProjectTemplate/bin/Debug/MyGame.exe
+/Users/hikaijie/Dropbox/Nicholas oop/ProjectTemplate/obj/x86/Debug-Windows/MyGame.exe
+/Users/hikaijie/Dropbox/Nicholas oop/ProjectTemplate/bin/Debug/SwinGame.dll
+/Users/hikaijie/Dropbox/Nicholas oop/ProjectTemplate/bin/Debug/nunit.framework.dll
+/Users/hikaijie/Dropbox/Nicholas oop/ProjectTemplate/bin/Debug/nunit.core.dll
+/Users/hikaijie/Dropbox/Nicholas oop/ProjectTemplate/bin/Debug/nunit.core.interfaces.dll
+/Users/hikaijie/Dropbox/Nicholas oop/ProjectTemplate/bin/Debug/nunit.util.dll
+/Users/hikaijie/Dropbox/Nicholas oop/ProjectTemplate/bin/Debug/NUnit.VisualStudio.TestAdapter.dll

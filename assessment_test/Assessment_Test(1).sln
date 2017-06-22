@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assessment_Test", "Assessment_Test\Assessment_Test.csproj", "{CC27080B-C554-4AC3-88CF-A9CD1EE158B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC27080B-C554-4AC3-88CF-A9CD1EE158B3}.Debug|x86.ActiveCfg = Debug|x86
+		{CC27080B-C554-4AC3-88CF-A9CD1EE158B3}.Debug|x86.Build.0 = Debug|x86
+		{CC27080B-C554-4AC3-88CF-A9CD1EE158B3}.Release|x86.ActiveCfg = Release|x86
+		{CC27080B-C554-4AC3-88CF-A9CD1EE158B3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assessment_Test\Assessment_Test.csproj
+	EndGlobalSection
+EndGlobal

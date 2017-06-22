@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="SwinwardsSchoolMagic\SwinwardsSchoolMagic.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SwinwardsSchoolMagic/Spellbook.cs">
+    <Files>
+      <File FileName="SwinwardsSchoolMagic/Spell.cs" Line="1" Column="1" />
+      <File FileName="SwinwardsSchoolMagic/Drawing.cs" Line="1" Column="1" />
+      <File FileName="SwinwardsSchoolMagic/Heal.cs" Line="1" Column="1" />
+      <File FileName="SwinwardsSchoolMagic/Invisibility.cs" Line="1" Column="1" />
+      <File FileName="SwinwardsSchoolMagic/Program.cs" Line="1" Column="1" />
+      <File FileName="SwinwardsSchoolMagic/Spellbook.cs" Line="1" Column="1" />
+      <File FileName="SwinwardsSchoolMagic/SpellKind.cs" Line="1" Column="1" />
+      <File FileName="SwinwardsSchoolMagic/Teleport.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,7 @@
+C:\Users\Dominic\Desktop\OOP C++\Codes\Rover\Rover\obj\x86\Debug\Rover.csprojResolveAssemblyReference.cache
+C:\Users\Dominic\Desktop\OOP C++\Codes\Rover\Rover\bin\Debug\Rover.exe
+C:\Users\Dominic\Desktop\OOP C++\Codes\Rover\Rover\bin\Debug\Rover.pdb
+C:\Users\Dominic\Desktop\OOP C++\Codes\Rover\Rover\obj\x86\Debug\Rover.exe
+C:\Users\Dominic\Desktop\OOP C++\Codes\Rover\Rover\obj\x86\Debug\Rover.pdb
+C:\Users\Dominic\Desktop\OOP C++\Codes\Rover\Rover\bin\Debug\nunit.framework.dll
+C:\Users\Dominic\Desktop\OOP C++\Codes\Rover\Rover\bin\Debug\nunit.framework.xml

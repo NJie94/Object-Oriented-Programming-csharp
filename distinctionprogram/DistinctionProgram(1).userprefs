@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DistinctionProgram\LastSquare.cs">
+    <Files>
+      <File FileName="DistinctionProgram\GameBoard.cs" Line="1" Column="1" />
+      <File FileName="DistinctionProgram\Player.cs" Line="1" Column="1" />
+      <File FileName="DistinctionProgram\Game.cs" Line="1" Column="1" />
+      <File FileName="DistinctionProgram\Program.cs" Line="1" Column="1" />
+      <File FileName="DistinctionProgram\DieTest.cs" Line="1" Column="1" />
+      <File FileName="DistinctionProgram\Die.cs" Line="1" Column="1" />
+      <File FileName="DistinctionProgram\PlayerTest.cs" Line="1" Column="1" />
+      <File FileName="DistinctionProgram\FirstSquare.cs" Line="1" Column="1" />
+      <File FileName="DistinctionProgram\LastSquare.cs" Line="25" Column="25" />
+      <File FileName="DistinctionProgram\NormalSquare.cs" Line="1" Column="1" />
+      <File FileName="DistinctionProgram\GameBoardTest.cs" Line="1" Column="1" />
+      <File FileName="DistinctionProgram\SquareTest.cs" Line="1" Column="1" />
+      <File FileName="DistinctionProgram\GameTest.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

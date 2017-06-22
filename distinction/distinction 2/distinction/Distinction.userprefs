@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Distinction\Program.cs">
+    <Files>
+      <File FileName="Distinction\Program.cs" Line="29" Column="17" />
+      <File FileName="Distinction\Deck.cs" Line="1" Column="1" />
+      <File FileName="Distinction\Card.cs" Line="11" Column="29" />
+      <File FileName="Distinction\CardNumber.cs" Line="1" Column="1" />
+      <File FileName="Distinction\BasePlayer.cs" Line="1" Column="1" />
+      <File FileName="Distinction\Dealer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

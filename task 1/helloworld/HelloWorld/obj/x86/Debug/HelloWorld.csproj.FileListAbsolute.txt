@@ -1,0 +1,15 @@
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Projects\HelloWorld\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task1_Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task1_Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task1_Projects\HelloWorld\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task1_Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Dominic\Desktop\OOP C++\C++\Codes\Wk_1_task1_Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Users\Dominic\Desktop\OOP C++\Codes\Wk_1_task1_Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Dominic\Desktop\OOP C++\Codes\Wk_1_task1_Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Dominic\Desktop\OOP C++\Codes\Wk_1_task1_Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\Dominic\Desktop\OOP C++\Codes\Wk_1_task1_Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Dominic\Desktop\OOP C++\Codes\Wk_1_task1_Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
